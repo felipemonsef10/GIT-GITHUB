@@ -1,6 +1,9 @@
 **Markdown**  __Curso em Vídeo__ -> NEGRITO
+
 *Markdown*  _Curso em Vídeo_ -> ITALICO
+
 ~~Markdown~~  ~~Curso em Vídeo~~ -> RISCADO
+
 __*Markdown*__  **_Curso em Vídeo_** -> NEGRITO E ITALICO
 
 # Título 1
